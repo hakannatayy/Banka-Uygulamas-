@@ -14,7 +14,7 @@ print("""**************************
 """)
 
 
-bakiye=1000
+bakiye=0
 
 while True:
     islem = input('İslem yapmak istediğiniz numara')
